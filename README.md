@@ -4,18 +4,6 @@ A responsive and simple weather application built using **HTML**, **CSS**, and *
 
 ---
 
-## 🔗 Live Demo
-
-[Click here to try the app](https://divyanshu8903.github.io/Weather-App/)
-
----
-
-## 📸 Screenshots
-
-![Screenshot](https://raw.githubusercontent.com/divyanshu8903/Weather-App/main/screenshot.png) <!-- Replace with actual screenshot if available -->
-
----
-
 ## 🛠️ Features
 
 - 🔍 Search weather by city name  
